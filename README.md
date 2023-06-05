@@ -4,7 +4,6 @@
 To design a website to perform mathematical calculations in server side.
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub
 
@@ -25,7 +24,6 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 '''
-
 math.html
 
     <html>
