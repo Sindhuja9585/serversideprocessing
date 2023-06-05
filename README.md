@@ -124,7 +124,8 @@ urls.py
         path('areaofrectangle/',views.rectarea,name="areaofrectangle"),
         path('',views.rectarea,name="areaofrectangleroot")
     ]
-
+    
+    '''
 
 ## OUTPUT:
 ![output](./out.png)
